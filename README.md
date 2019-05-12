@@ -1,6 +1,6 @@
 # Paypal Phishing Page (VueJS)
-# Complete phishing page with email/phone validation check, custom error message and input validation.
-# Looks 100% the real deal - and possibility for translations.
+## Complete phishing page with email/phone validation check, custom error message and input validation.
+## Looks 100% the real deal - and possibility for translations.
 
 ## Project setup
 ```
