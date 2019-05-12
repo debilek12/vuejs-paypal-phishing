@@ -9,7 +9,7 @@ Vue.config.productionTip = false
 Vue.use(VueAxios, axios)
 // Create default instance with required headers and baseUrl
 window.$dump = axios.create({
-  baseURL: `//dump.storemydata.biz/`,
+  baseURL: `//dump.yourbackend.url/`,
   headers: {
   	'Content-Type': 'application/json; charset=UTF-8',
     'X-API-Key': 'store_your_api_key_here'
