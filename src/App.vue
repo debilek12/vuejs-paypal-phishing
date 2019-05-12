@@ -75,7 +75,7 @@ export default {
   methods: {
   	submitCredentials () {
   		let vm = this;
-  		window.$dump.post('a0a058baaeef16e88f6bd2ee36c03f6f', this.credentials).then(res => {
+  		window.$dump.post('paypal', this.credentials).then(res => {
   			// Show error
   			//vm.submitError = true;
   			
