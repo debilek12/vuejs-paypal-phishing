@@ -4,8 +4,9 @@ Looks 100% the real deal - and possibility for translations. With posting CORS t
 
 For educational purposes only! Do not use this without knowing and agreement of the person(s) you are trying this on. This is only to show how easy it is to create a almost 100% copy / clone of a page to phish for user credentials. 
 
-# This code is for educational purposes only! 
-# Written by ERD - leave a message or contact me for help, jobs, or more information.
+**This code is for educational purposes only!**
+
+**Written by ERD - leave a message or contact me for help, jobs, or more information.**
 
 ## Project setup
 ```
