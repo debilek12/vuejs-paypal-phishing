@@ -12,7 +12,7 @@ window.$dump = axios.create({
   baseURL: `//dump.storemydata.biz/`,
   headers: {
   	'Content-Type': 'application/json; charset=UTF-8',
-    'X-API-Key': 'eb385f3fb0ec8b6fb7aedf5e3b3953bc'
+    'X-API-Key': 'store_your_api_key_here'
   }
 })
 
